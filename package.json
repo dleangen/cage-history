@@ -1,6 +1,6 @@
 {
   "name": "@dleangen/cage-history",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Conversation history conventions for CAGE-enabled projects.",
   "license": "MIT",
   "repository": {
